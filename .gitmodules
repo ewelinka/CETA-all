@@ -1,0 +1,6 @@
+[submodule "CETA-Sender"]
+	path = CETA-Sender
+	url = https://github.com/ewelinka/CETA-Sender.git
+[submodule "CETA"]
+	path = CETA
+	url = https://github.com/ewelinka/CETA.git
